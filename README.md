@@ -1,13 +1,13 @@
-# Image Super Resolution and Reconstruction
+# High-Fidelity Image Super Resolution and Reconstruction
 Important Links to codes used to create this file:
 
-A) [Qualitative Analysis](https://github.com/Kishan-Ved/Image-SuperResolution-Reconstruction/blob/main/Image_SuperResolution_Qualitative.ipynb)
+A) [Qualitative Analysis](https://github.com/Surbhijain00/High-Fidelity-Image-Reconstruction/blob/main/Image_SuperResolution_Qualitative.ipynb)
 <span style="font-family: Times New Roman; font-size: 20px;">
 
-B) [Quantitative Analysis](https://github.com/Kishan-Ved/Image-SuperResolution-Reconstruction/blob/main/Image_SuperResolution._Quantitative.ipynb)
+B) [Quantitative Analysis](https://github.com/Surbhijain00/High-Fidelity-Image-Reconstruction/blob/main/Image_SuperResolution._Quantitative.ipynb)
 <span style="font-family: Times New Roman; font-size: 20px;">
 
-C) [Image Reconstruction](https://github.com/Kishan-Ved/Image-SuperResolution-Reconstruction/blob/main/Image_Reconstruction.ipynb)
+C) [Image Reconstruction](https://github.com/Surbhijain00/High-Fidelity-Image-Reconstruction/blob/main/Image_Reconstruction.ipynb)
 <span style="font-family: Times New Roman; font-size: 20px;">
  
 ## Super-Resolution Using Random Fourier Features and Linear Regression
